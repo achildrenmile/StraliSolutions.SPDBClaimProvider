@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="685b5845-5c22-4e69-ba40-9d0b6d490acc" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="StraliSolutions.SPDBClaimProvider.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="ADMIN\StraliSolutions.SPDBClaimProvider\Config.aspx" />
+    <TemplateFile Location="Images\IFX.Collaboration.DBClaimProvider\dbcplogo_35x45.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="StraliSolutions.SPDBClaimProvider_Feature1\Feature.xml" />
+    <FeatureManifest Location="StraliSolutions.SPDBClaimProvider_Feature2\Feature.xml" />
+  </FeatureManifests>
+</Solution>

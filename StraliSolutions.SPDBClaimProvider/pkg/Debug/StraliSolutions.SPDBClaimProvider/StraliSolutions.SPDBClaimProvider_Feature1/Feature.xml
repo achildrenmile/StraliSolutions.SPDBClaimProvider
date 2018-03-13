@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Farm" Id="fc2001f0-ea0b-4424-80bd-33b9aa2c2ee8" ReceiverAssembly="StraliSolutions.SPDBClaimProvider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=58893efea2b62050" ReceiverClass="StraliSolutions.SPDBClaimProvider.FarmEventReceiver" Scope="Farm"></Feature>

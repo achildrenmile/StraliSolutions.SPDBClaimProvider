@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="8ef9d199-460a-4005-93fa-61a62a4ae0bf" ReceiverAssembly="IFX.Collaboration.DBClaimProvider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4fdda26cd412f1d5" ReceiverClass="IFX.Collaboration.DBClaimProvider.FarmEventReceiver" Scope="Farm" Title="Farm"></Feature>

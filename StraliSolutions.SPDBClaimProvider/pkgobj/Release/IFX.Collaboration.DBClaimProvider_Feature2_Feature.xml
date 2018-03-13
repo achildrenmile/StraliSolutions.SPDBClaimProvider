@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="2ad2d3b7-1fd0-4394-86a7-e606fcc7647c" Scope="WebApplication" Title="IFX.Collaboration.DBClaimProvider.WebAppLinks">
+  <ElementManifests>
+    <ElementManifest Location="AdminLink\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,1 @@
+bin\Debug\IFX.Collaboration.DBClaimProvider.wsp

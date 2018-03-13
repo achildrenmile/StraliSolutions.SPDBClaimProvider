@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="507ffadf-aefc-4e13-8346-2dcea0b8ac2a" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="IFX.Collaboration.DBClaimProvider.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="ADMIN\IFX.Collaboration.DBClaimProvider\Config.aspx" />
+    <TemplateFile Location="Images\IFX.Collaboration.DBClaimProvider\dbcplogo_35x45.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="IFX.Collaboration.DBClaimProvider_Feature1\Feature.xml" />
+    <FeatureManifest Location="IFX.Collaboration.DBClaimProvider_Feature2\Feature.xml" />
+  </FeatureManifests>
+</Solution>

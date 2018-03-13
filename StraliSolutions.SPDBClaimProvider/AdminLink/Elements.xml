@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+    Id="StraliSolutions.SPDBClaimProvider.Config"
+    Title="Application Settings"
+    Description="Settings for Strali Solutions DB Claim Provider."
+    GroupId="DBClaimProviderGroup" UIVersion="4" Sequence="300"
+    Location="Microsoft.SharePoint.Administration.Applications"
+    >
+    <UrlAction Url="/_admin/StraliSolutions.SPDBClaimProvider/Config.aspx"/>
+  </CustomAction>
+  <CustomActionGroup
+    Id="DBClaimProviderGroup"
+    Location="Microsoft.SharePoint.Administration.Applications"
+    Title="Strali Solutions DB Claim Provider Configuration"
+    Sequence="320"
+    RequiredAdmin="Delegated"
+    Description="Settings for Strali Solutions Video Web Services"
+    ImageUrl="/_layouts/15/images/StraliSolutions.SPDBClaimProvider/dbcplogo_35x45.png"
+  >
+  </CustomActionGroup>
+</Elements>

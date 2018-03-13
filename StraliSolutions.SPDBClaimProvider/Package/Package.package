@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="507ffadf-aefc-4e13-8346-2dcea0b8ac2a" solutionId="685b5845-5c22-4e69-ba40-9d0b6d490acc" resetWebServer="false" sharePointProductVersion="16.0" name="StraliSolutions.SPDBClaimProvider" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="99ed1e20-5d99-40bd-9f61-c43a5e863f6b" />
+    <featureReference itemId="534b5cdd-9bbd-4ca7-916d-6c6836dfca5e" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="512d10c7-e29c-4c8b-afc0-1a070234b334" />
+    <projectItemReference itemId="61f80ae4-4909-4b33-a2de-67d27f2abc8f" />
+  </projectItems>
+</package>

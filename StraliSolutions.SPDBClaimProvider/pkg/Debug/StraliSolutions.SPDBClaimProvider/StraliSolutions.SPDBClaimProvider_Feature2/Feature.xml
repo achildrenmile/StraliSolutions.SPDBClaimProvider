@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="StraliSolutions.SPDBClaimProvider.WebAppLinks" Id="8da0c366-2d87-4b1d-b659-e7e3697e078c" Scope="WebApplication">
+  <ElementManifests>
+    <ElementManifest Location="AdminLink\Elements.xml" />
+  </ElementManifests>
+</Feature>

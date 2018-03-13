@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+    Id="Ifx.Collaboration.DBClaimProvider.Config"
+    Title="Application Settings"
+    Description="Settings for Infineon DB Claim Provider."
+    GroupId="DBClaimProviderGroup" UIVersion="4" Sequence="300"
+    Location="Microsoft.SharePoint.Administration.Applications"
+    >
+    <UrlAction Url="/_admin/IFX.Collaboration.DBClaimProvider/Config.aspx"/>
+  </CustomAction>
+  <CustomActionGroup
+    Id="DBClaimProviderGroup"
+    Location="Microsoft.SharePoint.Administration.Applications"
+    Title="Infineon DB Claim Provider Configuration"
+    Sequence="320"
+    RequiredAdmin="Delegated"
+    Description="Settings for Infineon Video Web Services"
+    ImageUrl="/_layouts/15/images/IFX.Collaboration.DBClaimProvider/dbcplogo_35x45.png"
+  >
+  </CustomActionGroup>
+</Elements>
